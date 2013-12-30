@@ -57,7 +57,7 @@
     //DEMO
     $demo = new ProductQueryManagerDemo();
     
-    $demo->loadProducts('../data/data.json');
+    $demo->loadProducts('../data/data2.json');
     $demo->loadQueries('../data/query2.json');
     
     
