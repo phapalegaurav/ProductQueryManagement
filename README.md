@@ -1,7 +1,7 @@
 ProductQueryManagement
 ======================
 
-This is a sample product query management code, which is created as a solution for some custom assignment.
+This is a sample product query management code, which is created as a solution for a custom assignment.
 
 Description: 
 ProductQueryManager is the class which exposes all the functions to 
